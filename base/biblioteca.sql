@@ -12,6 +12,7 @@ CREATE TABLE livros (
 );
 
 INSERT INTO livros (titulo, autor, genero, ano_publicacao, quantidade) VALUES
-('Dom Casmurro', 'Machado de Assis', 'Romance', 1899, 3),
-('O Pequeno Príncipe', 'Antoine de Saint-Exupéry', 'Literatura', 1943, 0),
-('1984', 'George Orwell', 'Ficção', 1949, 2);
+('O Cortiço', 'Aluísio Azevedo', 'Romance', 1890, 10),
+('A Rainha Vermelha', 'Victoria Aveyard', 'Ficção', 2015, 5),
+('A Cabeça do Santo', 'Socorro Acioli', 'Romance', 2014, 9),
+('Romeu e Julieta', 'William Shakespeare', 'Ficção', 1597, 2);
