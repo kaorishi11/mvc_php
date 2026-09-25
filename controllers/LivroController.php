@@ -35,7 +35,7 @@ class LivroController
             $resultado = $this->livro->cadastrar($dados);
 
             if ($resultado === true) {
-                header('Location: index.php');
+                header('Location: /MVC/');
                 exit;
             }
 

@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Cadastrar Livro</title>
-    <link rel="stylesheet" href="../../css/style.css">
+    <link rel="stylesheet" href="/MVC/css/style.css">
 </head>
 <body>
 
